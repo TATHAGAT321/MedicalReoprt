@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MedicalReport/static/css/main.3bb53e45.css",
+    "main.js": "/MedicalReport/static/js/main.3cb57bee.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MedicalReport/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/MedicalReport/index.html",
+    "main.3bb53e45.css.map": "/MedicalReport/static/css/main.3bb53e45.css.map",
+    "main.3cb57bee.js.map": "/MedicalReport/static/js/main.3cb57bee.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MedicalReport/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb53e45.css",
+    "static/js/main.3cb57bee.js"
+  ]
+}
